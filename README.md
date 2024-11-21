@@ -51,6 +51,7 @@ pip install -r requirements.txt
 python src/main.py
 ```
 ## Project Structure
+```plaintext
 src/
 ├── main.py              # Main application entry point
 ├── analysis.py          # Technical indicators and ML predictions
@@ -58,6 +59,7 @@ src/
 ├── data_management.py   # Database operations
 ├── trading.py           # Trading strategy and backtesting
 └── visualization.py     # Interactive dashboards
+```
 
 ## Sample Output
 Strategy Results for AAPL:
